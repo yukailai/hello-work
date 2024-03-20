@@ -18,8 +18,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="gateway" options="-parameters" />
-      <module name="order" options="" />
-      <module name="stock" options="" />
+      <module name="order" options="-parameters" />
+      <module name="stock" options="-parameters" />
       <module name="yukailai" options="" />
     </option>
   </component>
